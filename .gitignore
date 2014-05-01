@@ -2,3 +2,6 @@
 *.*.swp
 *.out
 *.class
+.metadata
+.project
+.classpath
